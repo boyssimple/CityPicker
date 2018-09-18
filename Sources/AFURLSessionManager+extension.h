@@ -6,7 +6,7 @@
 //  Copyright © 2018年 luowei. All rights reserved.
 //
 
-#import "AFURLSessionManager.h"
+#import <AFNetworking/AFURLSessionManager.h>
 
 @interface AFURLSessionManager (extension)
 
